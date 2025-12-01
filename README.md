@@ -31,6 +31,7 @@ Pipeline:
 8. Generation of high-accuracy submission.csv
 
 Output Files:
+
 • CHURCH_BEST_MODEL.ply                → Final dense colored point cloud (1,744 points)
 
 • CHURCH_BEST_SUBMISSION_FOR_THIS.csv    → Kaggle submission (Top 30 quality)
