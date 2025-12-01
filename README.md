@@ -1,10 +1,10 @@
-==========================================
+
 COMPUTER VISION FINAL PROJECT
 3D Reconstruction of Kyiv Puppet Theater
 Image Matching Challenge 2025 – Classical SfM
 Author: Izza Farhat
 December 2025
-==========================================
+
 
 This project implements a complete classical Structure-from-Motion pipeline using only OpenCV and Open3D.
 
