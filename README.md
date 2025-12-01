@@ -11,9 +11,13 @@ December 2025
 This project implements a complete classical Structure-from-Motion pipeline using only OpenCV and Open3D.
 
 Key Achievements:
+
 • Dense 3D reconstruction of Kyiv Puppet Theater from 40 images
+
 • No deep learning, no COLMAP, no pre-trained models
+
 • Achieved ~0.60 public score on Kaggle IMC 2025 (Top 20–30 worldwide)
+
 • Fully automatic, CPU-only, reproducible
 
 Pipeline:
@@ -27,11 +31,11 @@ Pipeline:
 8. Generation of high-accuracy submission.csv
 
 Output Files:
-- CHURCH_BEST_MODEL.ply                → Final dense colored point cloud (1,744 points)
+• CHURCH_BEST_MODEL.ply                → Final dense colored point cloud (1,744 points)
 
- CHURCH_BEST_SUBMISSION_FOR_THIS.csv    → Kaggle submission (Top 30 quality)
+• CHURCH_BEST_SUBMISSION_FOR_THIS.csv    → Kaggle submission (Top 30 quality)
  
- KYIV_THEATER_FINAL_DENSE.ply          → Same model (backup)
+• KYIV_THEATER_FINAL_DENSE.ply          → Same model (backup)
 
 To view the model:
 - Open .ply files in MeshLab, CloudCompare, or https://3dviewer.net
