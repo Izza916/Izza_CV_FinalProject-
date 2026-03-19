@@ -3,7 +3,7 @@
 
 COMPUTER VISION FINAL PROJECT : 
 3D Reconstruction of Kyiv Puppet Theater
-Image Matching Challenge 2025 – Classical SfM
+ – Classical SfM
 Author: Izza Farhat
 December 2025
 ==============================================
