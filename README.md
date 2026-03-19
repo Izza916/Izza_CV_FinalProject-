@@ -4,7 +4,7 @@
 COMPUTER VISION : 
 3D Reconstruction of Kyiv Puppet Theater
  -- Classical SfM
-Author: Izza Farhat
+
 December 2025
 ==============================================
 
