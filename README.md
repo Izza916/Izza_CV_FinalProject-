@@ -1,7 +1,7 @@
 
 
 
-COMPUTER VISION FINAL PROJECT : 
+COMPUTER VISION : 
 3D Reconstruction of Kyiv Puppet Theater
  – Classical SfM
 Author: Izza Farhat
@@ -32,7 +32,7 @@ Output Files:
 
 • CHURCH_BEST_MODEL.ply                → Final dense colored point cloud (1,744 points)
 
-• CHURCH_BEST_SUBMISSION_FOR_THIS.csv    → Kaggle submission (Top 30 quality)
+• CHURCH_BEST_SUBMISSION_FOR_THIS.csv    
  
 • KYIV_THEATER_FINAL_DENSE.ply          → Same model (backup)
 
