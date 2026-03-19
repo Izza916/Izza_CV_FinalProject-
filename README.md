@@ -16,8 +16,6 @@ Key Achievements:
 
 • No deep learning, no COLMAP, no pre-trained models
 
-• Achieved ~0.60 public score on Kaggle IMC 2025 (Top 20–30 worldwide)
-
 • Fully automatic, CPU-only, reproducible
 
 Pipeline:
